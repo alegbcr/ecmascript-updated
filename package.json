@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "This project shows how JS change on every year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Alexander Gonzalez B <alexgbcr@protonmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
